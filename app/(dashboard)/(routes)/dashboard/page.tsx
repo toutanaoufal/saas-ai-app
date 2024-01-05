@@ -23,13 +23,6 @@ const tools = [
     bgColor: "bg-violet-500/10"
   },
   {
-    label: "Music generation",
-    icon: Music,
-    href: "/music",
-    color: "text-emerald-500",
-    bgColor: "bg-emerald-500/10"
-  },
-  {
     label: "Image generation",
     icon: ImageIcon,
     href: "/conversation",
