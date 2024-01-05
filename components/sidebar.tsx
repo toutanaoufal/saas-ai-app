@@ -45,12 +45,6 @@ const routes = [
     icon: VideoIcon,
     href: "/video",
     color: "text-orange-700",
-  },
-  {
-    label: "Music Generation",
-    icon: Music,
-    href: "/music",
-    color: "text-emerald-700",
   }
   ,
   {
